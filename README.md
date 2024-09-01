@@ -3,6 +3,7 @@
 ## O GAME ESTÁ INCOMPLETO E NAO SERÁ FINALIZADO!
 
 ### Apesar de incompleto, está em um bom estágio para quem queira finaliza-lo e edita-lo, fiquem a vontade.
+O jogo já está configurado com o Pathfinder (Algoritmo A*) ou seja, as criaturas o veem e seguem.
 
   A idéia inicial, partiu de uma imagem criada por mim:
 
@@ -19,7 +20,7 @@
 
 ### A seguir, algumas imagens dos itens e personagens que criei, além de cenários. Alguns foram baseados em referências retiradas da internet, porém, todos foram editados para ter um certo grau de originalidade.
 
-###Personagem
+        Personagem
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c6b785f1-4c5a-4a96-9e2a-3ee8b036983b" width="50px" />
   <img src="https://github.com/user-attachments/assets/1921e22b-1da4-4ba4-b085-f3f24d9f15af" width="50px" />
@@ -27,7 +28,7 @@
   <img src="https://github.com/user-attachments/assets/fd7e7114-4e76-43c2-8109-3a7fb682bb63" width="50px" />
 </div>
 
-###Criaturas
+        Criaturas
 
 Slime
 <div align="center">
@@ -49,14 +50,15 @@ Ogro
   <img src="https://github.com/user-attachments/assets/613919bc-de80-4671-93f9-fcc5b9e5df54" width="50px" />
 </div>
 
-###Cenário
+Cenário
 
 Tileset
 <div align="center">
   <img src="https://github.com/user-attachments/assets/faa9d7e0-e94e-4d5c-8eac-9a0dd45e9090" width="400px" />
 </div>
 
-###Itens e Hud
+        Itens e Hud
+       
 
 Baú
 <div align="center">
@@ -102,6 +104,32 @@ Barraca
 <div align="center">
   <img src="https://github.com/user-attachments/assets/05f58353-b690-4c73-a106-0fb6df441025" width="50px" />
 </div>
+
+        HUD
+
+HUD Flechas
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3e93b3ab-445b-4575-b97d-90136f5a7573" width="50px" />
+  <img src="https://github.com/user-attachments/assets/22ebec01-5faa-4651-94e4-90821b332b65" width="50px" />
+</div>
+
+HUD das fases do dia
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8ea39080-817e-491b-9d70-2650c9b4b5c3" width="50px" />
+  <img src="https://github.com/user-attachments/assets/8109cab1-9cc8-4bd1-8400-ba9dd87f6846" width="50px" />
+  <img src="https://github.com/user-attachments/assets/f133b90b-f568-4176-8352-0e053ea6750f" width="50px" />
+  <img src="https://github.com/user-attachments/assets/1fa172ee-53f6-4fb7-9e5e-31d5453383c0" width="50px" />
+</div>
+
+HUD Barra de vida
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6ab57530-14b8-4513-a327-7ac3a22bcb10" width="50px" />
+  <img src="https://github.com/user-attachments/assets/1f30b6e7-8264-4c02-bace-5043ca48a375" width="50px" />
+  <img src="https://github.com/user-attachments/assets/2b4a61e2-8b7b-40f2-931a-8b2de5eb180c" width="50px" />
+</div>
+
+
+
 
 
 
