@@ -67,6 +67,50 @@ Baú
   <img src="https://github.com/user-attachments/assets/72dbd38c-d3e9-4a40-953d-935358c05d91" width="50px" />
 </div>
 
+Chave
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9a5d28be-e997-4f2f-b84a-fa261ea8e2ab" width="50px" />
+</div>
+
+Escudos
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4d8045e0-a459-4c72-bebc-045e53f0d9f7" width="50px" />
+  <img src="https://github.com/user-attachments/assets/e73ef7c4-d589-44da-95ee-7ce922824270" width="50px" /> 
+</div>
+
+Espada
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/65c2c1dd-c482-4d33-a4e7-85b9558cf804" width="50px" />
+</div>
+
+Lanterna
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e294b6ce-f595-4572-840f-b90e22d9d3a3" width="50px" />
+</div>
+
+Machado
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/32a1e545-3812-4bb1-a991-d24d50dfe71f" width="50px" />
+</div>
+
+Pocao de Cura
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a2ae9009-ed28-4217-9764-ccab9cf7a09c" width="50px" />
+</div>
+
+Barraca
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/05f58353-b690-4c73-a106-0fb6df441025" width="50px" />
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
